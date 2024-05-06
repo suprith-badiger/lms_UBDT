@@ -53,7 +53,7 @@ for getting the MAIL_PASS follow the below steps:
 - click on “Security” to turn on 2-step verification
 - scroll down and find App passwords
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1fa8ad2f-b7c4-448f-afa3-71087998aac6/fc600d10-7e88-4bb6-ab93-e7161922e00b/Untitled.png)
+![alt text](<Screenshot 2024-05-05 143331.png>)
 
 - create a new app password and copy the password
 - use that password as MAIL_PASS in .env file
