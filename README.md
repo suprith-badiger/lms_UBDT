@@ -52,8 +52,5 @@ for getting the MAIL_PASS follow the below steps:
 - Visit your Gmail account manager and click on “manage your Google Account”
 - click on “Security” to turn on 2-step verification
 - scroll down and find App passwords
-
-![alt text](<Screenshot 2024-05-05 143331.png>)
-
 - create a new app password and copy the password
 - use that password as MAIL_PASS in .env file
