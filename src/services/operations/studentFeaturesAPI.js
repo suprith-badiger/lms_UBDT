@@ -76,7 +76,7 @@ export async function buyCourse(
         //send successful wala mail
         sendPaymentSuccessEmail(
           response,
-          orderResponse.data.message.amount,
+          orderResponse.data.data.amount, // --> data.data.amount
           token
         );
         //verifyPayment
